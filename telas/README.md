@@ -6,6 +6,7 @@ jogadores, turmas, desafios e torneios locais são fictícios. As telas de ITF m
 - Última captura: **2026-11-12** (pasta `2026-11-12/`)
 - Versão do app: commit `fc7fb93e (2026-11-12)` do repositório Leandro1799/smatchbeach
 - Formato: PNG 1170×2532 (iPhone 390×844 em 3x), modo escuro, sem barra de status do sistema
+- Mapa de funcionalidades (o que cada tela faz, para quem, preços e status): [FUNCIONALIDADES.md](FUNCIONALIDADES.md)
 - Para gerar de novo: `scripts/capture-screens/` no repositório do app (ver o README de lá)
 
 | Área | Tela | Arquivo | O que mostra |
