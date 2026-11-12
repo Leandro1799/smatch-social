@@ -41,7 +41,9 @@ completo). O **Plano Arena**, sem "Gestão", custa R$ 49,90 por mês. Em materia
 divulgação, "Plano Arena R$ 300" deve virar "Plano Arena Gestão R$ 300".
 
 Os dois planos de arena já incluem o Premium do dono. Nos apps de iPhone e Android as
-assinaturas são vendidas pelas lojas, e o preço de loja não está no código.
+assinaturas são vendidas pelas lojas. O Plano Arena Gestão foi cadastrado nas duas lojas a
+R$ 300,00; o preço de loja do Premium e do Plano Arena não está no código e deve ser
+conferido no App Store Connect e no Google Play Console antes de ser divulgado.
 
 ---
 
@@ -623,7 +625,7 @@ assinaturas são vendidas pelas lojas, e o preço de loja não está no código.
 - **O que libera:** tudo do Plano Arena, mais **Aulas** (turmas, pedidos de vaga, chamada, frequência, reposições), **Quadras** (reservas com Pix direto para a arena) e o painel com números completos.
 - **Para quem:** arena.
 - **Grátis ou pago:** **R$ 300,00 por mês**. Na web, só cartão de crédito, cobrança mensal. Subir do Plano Arena para o Gestão cobra na hora, sem abater os dias já pagos.
-- **Status:** no ar desde 08/11/2026 (venda ligada na configuração de produção). A venda pela loja no app de iPhone não pôde ser confirmada pelo código.
+- **Status:** no ar desde 08/11/2026 (venda ligada na configuração de produção). Também é vendido pelas lojas, a R$ 300,00: a compra foi testada no Android em 09/11/2026 e a assinatura foi aprovada pela Apple no mesmo dia. Falta só um teste de compra feito num iPhone.
 - **Telas:** [`arenas-plano-arena`](2026-11-12/arenas-plano-arena.png), [`arenas-painel`](2026-11-12/arenas-painel.png)
 
 ### Painel da arena
@@ -814,6 +816,7 @@ O que parece pronto e não está, ou funciona de um jeito diferente do que o nom
 Leitura do código do app, das funções do servidor e das migrações do banco, no commit
 `fc7fb93e` de 12/11/2026. Três pontos foram conferidos também em produção: a venda do
 Plano Arena Gestão está ligada, a taxa do torneio é de R$ 1,00 mais R$ 0,99 do Pix com
-cobrança mínima de R$ 5,00, e o teste do Premium é de 7 dias. Os preços cobrados pelas
-lojas de aplicativos não estão no código. Para atualizar o mapa a cada release, releia o
+cobrança mínima de R$ 5,00, e o teste do Premium é de 7 dias. Os nomes de botões citados
+(353) foram conferidos um a um contra o texto em português do app. A situação do Plano
+Arena Gestão nas lojas vem do registro do cadastro feito em 08 e 09/11/2026, não do código. Para atualizar o mapa a cada release, releia o
 código das áreas que mudaram e refaça a biblioteca de telas.
