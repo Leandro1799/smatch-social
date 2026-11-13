@@ -29,7 +29,7 @@ No topo ficam o sino, as mensagens e o menu do avatar.
 |---|---|---|
 | Usar o app como jogador (perfil, desafios, coringa, match, ranking, ITF, arenas) | Grátis | — |
 | **Premium** | R$ 9,90 por mês | Jogador |
-| **Plano Arena** | R$ 49,90 por mês | Dono de arena |
+| **Plano Arena** | R$ 99,90 por mês (era R$ 49,90 até 12/11/2026) | Dono de arena |
 | **Plano Arena Gestão** | R$ 300,00 por mês | Dono de arena |
 | Inscrição em torneio cobrada pelo app | R$ 1,00 do Smatch + R$ 0,99 do Pix = **R$ 1,99 por inscrição paga** | Organizador (sai do valor da inscrição; o atleta paga só o preço anunciado) |
 | Criar e organizar torneio, com inscrição grátis ou paga fora do app | Grátis | — |
@@ -37,13 +37,14 @@ No topo ficam o sino, as mensagens e o menu do avatar.
 
 **Atenção ao nome do plano de R$ 300.** No app existem dois planos de arena. O de
 R$ 300,00 por mês chama-se **Plano Arena Gestão** (aulas, aluguel de quadra e painel
-completo). O **Plano Arena**, sem "Gestão", custa R$ 49,90 por mês. Em material de
+completo). O **Plano Arena**, sem "Gestão", custa R$ 99,90 por mês. Em material de
 divulgação, "Plano Arena R$ 300" deve virar "Plano Arena Gestão R$ 300".
 
 Os dois planos de arena já incluem o Premium do dono. Nos apps de iPhone e Android as
 assinaturas são vendidas pelas lojas. O Plano Arena Gestão foi cadastrado nas duas lojas a
-R$ 300,00; o preço de loja do Premium e do Plano Arena não está no código e deve ser
-conferido no App Store Connect e no Google Play Console antes de ser divulgado.
+R$ 300,00 e o Plano Arena a R$ 99,90 (Android desde 12/11/2026; iPhone a partir de
+14/11/2026). O preço de loja do Premium não está no código e deve ser conferido no App
+Store Connect e no Google Play Console antes de ser divulgado.
 
 ---
 
@@ -615,7 +616,7 @@ conferido no App Store Connect e no Google Play Console antes de ser divulgado.
 - **Para que serve:** ter a arena visível no app.
 - **O que libera:** perfil público com logo, horários e preços; Day Use ilimitado; professores vinculados; selos Total Pass e Wellhub; painel da arena; Premium para o dono.
 - **Para quem:** arena.
-- **Grátis ou pago:** **R$ 49,90 por mês**. Na web, só cartão de crédito, cobrança mensal. No app de iPhone e Android, compra pela loja.
+- **Grátis ou pago:** **R$ 99,90 por mês** desde 12/11/2026 (antes, R$ 49,90). Na web, só cartão de crédito, cobrança mensal. No app de iPhone e Android, compra pela loja: no Android já está em R$ 99,90; no iPhone o preço novo entra em 14/11/2026.
 - **Status:** no ar. Não há período de teste. Ao cancelar, o acesso vale até o fim do período pago; depois o perfil e os Day Use somem do app.
 - **Telas:** [`arenas-plano-arena`](2026-11-12/arenas-plano-arena.png), [`arenas-perfil`](2026-11-12/arenas-perfil.png)
 
@@ -676,7 +677,7 @@ conferido no App Store Connect e no Google Play Console antes de ser divulgado.
   2. Ou preencha **Horário de Day Use** e **Valor padrão do Day Use** no perfil da arena: o app cria sozinho um Day Use por dia aberto, para os próximos 21 dias.
   3. Acompanhe quantas pessoas confirmaram em cada período.
 - **Para quem:** arena.
-- **Grátis ou pago:** incluído no Plano Arena (R$ 49,90 por mês) e no Gestão.
+- **Grátis ou pago:** incluído no Plano Arena (R$ 99,90 por mês) e no Gestão.
 - **Status:** no ar. O Day Use criado já sai publicado; não há rascunho.
 - **Telas:** [`arenas-day-use`](2026-11-12/arenas-day-use.png)
 
@@ -794,7 +795,7 @@ do projeto ou marcados como "Em breve" dentro do próprio app.
 
 O que parece pronto e não está, ou funciona de um jeito diferente do que o nome sugere.
 
-1. **"Plano Arena R$ 300"** não existe com esse nome. R$ 300,00 é o **Plano Arena Gestão**; o **Plano Arena** custa R$ 49,90.
+1. **"Plano Arena R$ 300"** não existe com esse nome. R$ 300,00 é o **Plano Arena Gestão**; o **Plano Arena** custa R$ 99,90.
 2. **Não há notificação push.** Todo aviso aparece só no sino, dentro do app.
 3. **Favoritar não avisa.** Marcar um jogador ou uma arena como favorito não gera notificação de jogo, resultado, Day Use ou turma nova.
 4. **A arena não envia comunicados.** Os "avisos" são só os automáticos de fechamento (aula cancelada, aula de volta, reserva cancelada).
