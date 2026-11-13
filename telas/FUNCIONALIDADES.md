@@ -3,7 +3,7 @@
 O que o app faz hoje, tela por tela, para uso do marketing. A fonte é o **código do app**
 (repositório `Leandro1799/smatchbeach`, commit `fc7fb93e`, de 12/11/2026), não o que está
 planejado nem o que já foi dito em divulgação. As telas citadas estão na biblioteca ao lado
-([README.md](README.md), pasta [`2026-11-12/`](2026-11-12/)).
+([README.md](README.md), pasta [`2026-11-13/`](2026-11-13/)).
 
 ## Como ler
 
@@ -129,7 +129,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar.
-- **Telas:** [`home-inicio`](2026-11-12/home-inicio.png)
+- **Telas:** [`home-inicio`](2026-11-13/home-inicio.png)
 
 ---
 
@@ -161,7 +161,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis. No Premium o perfil sobe na fila e **Onde tá rolando** mostra as arenas com gente ativa.
 - **Status:** no ar. Mostra só jogadores da mesma categoria; cada pessoa tem uma dupla de mesmo gênero e uma mista.
-- **Telas:** [`match-busca-de-dupla`](2026-11-12/match-busca-de-dupla.png), [`match-card-de-perfil`](2026-11-12/match-card-de-perfil.png)
+- **Telas:** [`match-busca-de-dupla`](2026-11-13/match-busca-de-dupla.png), [`match-card-de-perfil`](2026-11-13/match-card-de-perfil.png)
 
 ### Amigos
 - **Onde fica:** Perfil › **Visão pública** › abas **Amigos** / **Buscar Dupla** (menu do avatar › **Amigos**).
@@ -191,7 +191,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador, professor e arena.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. É uma lista de pendências, não um histórico. **Não existe notificação push**: o aviso só aparece dentro do app.
-- **Telas:** [`arenas-avisos`](2026-11-12/arenas-avisos.png)
+- **Telas:** [`arenas-avisos`](2026-11-13/arenas-avisos.png)
 
 ---
 
@@ -208,7 +208,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar.
-- **Telas:** [`perfil-jogador`](2026-11-12/perfil-jogador.png), [`match-card-de-perfil`](2026-11-12/match-card-de-perfil.png)
+- **Telas:** [`perfil-jogador`](2026-11-13/perfil-jogador.png), [`match-card-de-perfil`](2026-11-13/match-card-de-perfil.png)
 
 ### Perfil verificado
 - **Onde fica:** Perfil › **Editar** › **Solicitações** › **Perfil verificado**.
@@ -217,7 +217,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** só para assinantes Premium (R$ 9,90 por mês) ou donos de arena com plano.
 - **Status:** no ar. O selo é ativado na hora; o documento informado não é conferido por ninguém. Evite prometer "identidade checada".
-- **Telas:** [`perfil-jogador`](2026-11-12/perfil-jogador.png)
+- **Telas:** [`perfil-jogador`](2026-11-13/perfil-jogador.png)
 
 ### Estatísticas
 - **Onde fica:** Perfil › **Ver estatísticas completas** (`/estatisticas`).
@@ -226,7 +226,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar.
-- **Telas:** [`desafios-estatisticas`](2026-11-12/desafios-estatisticas.png)
+- **Telas:** [`desafios-estatisticas`](2026-11-13/desafios-estatisticas.png)
 
 ### Vincular perfil ITF
 - **Onde fica:** cartão **Você joga o circuito ITF?** no Perfil.
@@ -270,7 +270,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. O formato **Só tie-break** entrou em 12/11/2026. Desafio não dá pontos de ranking; conta vitórias e derrotas no perfil. Em **Quem pode me desafiar** o jogador escolhe **Qualquer um**, **Minha categoria ou acima (e amigos)**, **Só amigos** ou **Ninguém**.
-- **Telas:** [`desafios-criar`](2026-11-12/desafios-criar.png), [`desafios-resultado`](2026-11-12/desafios-resultado.png), [`desafios-historico`](2026-11-12/desafios-historico.png), [`desafios-estatisticas`](2026-11-12/desafios-estatisticas.png)
+- **Telas:** [`desafios-criar`](2026-11-13/desafios-criar.png), [`desafios-resultado`](2026-11-13/desafios-resultado.png), [`desafios-historico`](2026-11-13/desafios-historico.png), [`desafios-estatisticas`](2026-11-13/desafios-estatisticas.png)
 
 ---
 
@@ -287,7 +287,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar.
-- **Telas:** [`coringa-disponiveis`](2026-11-12/coringa-disponiveis.png), [`coringa-chamadas`](2026-11-12/coringa-chamadas.png)
+- **Telas:** [`coringa-disponiveis`](2026-11-13/coringa-disponiveis.png), [`coringa-chamadas`](2026-11-13/coringa-chamadas.png)
 
 ### Árbitros
 - **Onde fica:** para se cadastrar, primeiro acesso (papel **Árbitro**) ou Perfil › **Sou árbitro**. Para achar um, Coringa › **Árbitros**.
@@ -315,7 +315,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador; funciona sem conta.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar.
-- **Telas:** [`torneios-lista`](2026-11-12/torneios-lista.png)
+- **Telas:** [`torneios-lista`](2026-11-13/torneios-lista.png)
 
 ### Inscrição em torneio
 - **Onde fica:** página do torneio › **Inscrever-se**.
@@ -329,7 +329,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** o atleta paga exatamente o valor anunciado pelo organizador, sem taxa por cima. Pelo app, **só Pix** (não há cartão). Nas duplas, cada um paga a sua parte; o parceiro recebe o convite **Aceitar e me inscrever**.
 - **Status:** no ar. Torneio lotado oferece **Entrar na fila de espera**. Se o organizador cancela o torneio ou a categoria, o atleta recebe o valor inteiro de volta. Se o próprio atleta cancela uma inscrição já paga, **não há devolução automática**.
-- **Telas:** [`torneios-inscricao`](2026-11-12/torneios-inscricao.png), [`torneios-inscricao-pix`](2026-11-12/torneios-inscricao-pix.png)
+- **Telas:** [`torneios-inscricao`](2026-11-13/torneios-inscricao.png), [`torneios-inscricao-pix`](2026-11-13/torneios-inscricao-pix.png)
 
 ### Chave e resultados
 - **Onde fica:** página do torneio › **Chaveamento**.
@@ -342,7 +342,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador e público.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar.
-- **Telas:** [`torneios-chave`](2026-11-12/torneios-chave.png)
+- **Telas:** [`torneios-chave`](2026-11-13/torneios-chave.png)
 
 ### Super 8
 - **Onde fica:** página do torneio › **Jogos**.
@@ -354,7 +354,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** conforme o torneio.
 - **Status:** no ar.
-- **Telas:** [`torneios-placar`](2026-11-12/torneios-placar.png), [`torneios-classificacao`](2026-11-12/torneios-classificacao.png)
+- **Telas:** [`torneios-placar`](2026-11-13/torneios-placar.png), [`torneios-classificacao`](2026-11-13/torneios-classificacao.png)
 
 ### Ranking local
 - **Onde fica:** aba **Ranking** › **Local**.
@@ -367,7 +367,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador; funciona sem conta.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. Só pontuam os torneios do tipo **Torneio** (mata-mata) e os torneios importados da LetzPlay (os 6 melhores). Super 8, Ranking de duplas fixas, Copa por Equipes e desafios **não** dão pontos. O campeão leva de 50 a 800 pontos, conforme o número de inscritos na categoria; os pontos valem 12 meses.
-- **Telas:** [`ranking-local-categoria`](2026-11-12/ranking-local-categoria.png), [`perfil-jogador`](2026-11-12/perfil-jogador.png)
+- **Telas:** [`ranking-local-categoria`](2026-11-13/ranking-local-categoria.png), [`perfil-jogador`](2026-11-13/perfil-jogador.png)
 
 ### Circuitos
 - **Onde fica:** carrossel **Circuitos** na aba Torneios.
@@ -394,7 +394,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** organizador. Qualquer pessoa com conta pode criar.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. **Já organizou um evento parecido? Copiar de um anterior** reaproveita descrição, regulamento, capa, categorias e regras. Dá para ter um rascunho por vez.
-- **Telas:** [`torneios-criacao-formato`](2026-11-12/torneios-criacao-formato.png), [`torneios-lista`](2026-11-12/torneios-lista.png)
+- **Telas:** [`torneios-criacao-formato`](2026-11-13/torneios-criacao-formato.png), [`torneios-lista`](2026-11-13/torneios-lista.png)
 
 ### Formatos de competição
 - **Onde fica:** na criação do torneio, em **Tipo de evento**.
@@ -410,7 +410,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** organizador.
 - **Grátis ou pago:** grátis.
 - **Outros formatos:** **Rei da Praia** e temporadas de **Dupla Fixa** ficam em Torneios › **Meus** › **Outros formatos**. A temporada de Rei da Praia só é criada pela equipe do Smatch (**em teste**).
-- **Telas:** [`torneios-criacao-formato`](2026-11-12/torneios-criacao-formato.png), [`torneios-chave`](2026-11-12/torneios-chave.png), [`torneios-placar`](2026-11-12/torneios-placar.png)
+- **Telas:** [`torneios-criacao-formato`](2026-11-13/torneios-criacao-formato.png), [`torneios-chave`](2026-11-13/torneios-chave.png), [`torneios-placar`](2026-11-13/torneios-placar.png)
 
 ### Cobrar a inscrição pelo app
 - **Onde fica:** criação do torneio › etapa **Inscrição** › **Valor da inscrição por atleta (R$)**.
@@ -424,7 +424,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** organizador (no Brasil, com chave Pix confirmada).
 - **Grátis ou pago:** o Smatch fica com **R$ 1,00 por inscrição paga**, mais **R$ 0,99 do Pix**: **R$ 1,99 por inscrição**, descontados do valor que o organizador recebe. O atleta paga só o preço anunciado. Exemplo: inscrição de R$ 80,00 rende R$ 78,01 ao organizador. Torneio grátis e torneio com pagamento **Fora do Smatch** não têm taxa.
 - **Status:** no ar. O repasse sai automaticamente depois do fim do torneio. Em cancelamento pelo organizador, o atleta recebe tudo de volta.
-- **Telas:** [`torneios-inscricao`](2026-11-12/torneios-inscricao.png), [`torneios-inscricao-pix`](2026-11-12/torneios-inscricao-pix.png)
+- **Telas:** [`torneios-inscricao`](2026-11-13/torneios-inscricao.png), [`torneios-inscricao-pix`](2026-11-13/torneios-inscricao-pix.png)
 
 ### Rodar o torneio
 - **Onde fica:** página do torneio (o organizador vê os controles a mais).
@@ -439,7 +439,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** organizador, co-organizador e árbitro convidado.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar.
-- **Telas:** [`torneios-chave`](2026-11-12/torneios-chave.png), [`torneios-placar`](2026-11-12/torneios-placar.png)
+- **Telas:** [`torneios-chave`](2026-11-13/torneios-chave.png), [`torneios-placar`](2026-11-13/torneios-placar.png)
 
 ### Painel do organizador
 - **Onde fica:** Torneios › **Painel do organizador**.
@@ -448,7 +448,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** organizador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar para **Visão**, **Torneios** e **Inscritos**. As abas **Analytics** e **Financeiro** do painel mostram "Em breve": o financeiro de cada torneio já existe, mas dentro da página do torneio (**Gestão financeira**).
-- **Telas:** [`torneios-lista`](2026-11-12/torneios-lista.png) (botão de entrada)
+- **Telas:** [`torneios-lista`](2026-11-13/torneios-lista.png) (botão de entrada)
 
 ---
 
@@ -466,7 +466,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** todos, inclusive visitante sem conta.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. Os dados são atualizados de hora em hora durante os torneios.
-- **Telas:** [`itf-lista-ao-vivo`](2026-11-12/itf-lista-ao-vivo.png), [`itf-chave`](2026-11-12/itf-chave.png), [`home-inicio`](2026-11-12/home-inicio.png)
+- **Telas:** [`itf-lista-ao-vivo`](2026-11-13/itf-lista-ao-vivo.png), [`itf-chave`](2026-11-13/itf-chave.png), [`home-inicio`](2026-11-13/home-inicio.png)
 
 ### Favoritos
 - **Onde fica:** estrela ao lado do nome do jogador na chave ITF, na aba **Players**, no Ranking ITF e na chave de torneio local de simples.
@@ -478,7 +478,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador com conta.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. **Favoritar não gera aviso**: o app não notifica jogo marcado nem resultado do favorito.
-- **Telas:** [`itf-favoritos`](2026-11-12/itf-favoritos.png), [`ranking-itf`](2026-11-12/ranking-itf.png)
+- **Telas:** [`itf-favoritos`](2026-11-13/itf-favoritos.png), [`ranking-itf`](2026-11-13/ranking-itf.png)
 
 ### Ranking ITF
 - **Onde fica:** aba **Ranking** › **ITF**.
@@ -491,7 +491,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** todos, inclusive visitante.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. Atualização semanal; a tela mostra a data. Não há ranking misto, porque a ITF não publica.
-- **Telas:** [`ranking-itf`](2026-11-12/ranking-itf.png)
+- **Telas:** [`ranking-itf`](2026-11-13/ranking-itf.png)
 
 ### Vídeos dos jogos
 - **Onde fica:** botão na linha do jogo, na chave ITF (**Assistir ao vivo**, **Ver transmissão** ou o horário programado); busca **Buscar vídeos e perfis de atletas e arenas**, no topo de Torneios; **Meus jogos**, no perfil de quem tem vínculo ITF.
@@ -530,7 +530,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. Só aparecem no diretório as arenas aprovadas e com plano ativo. No mapa aparecem também lugares cadastrados por jogadores ou achados no Google, sem perfil.
-- **Telas:** [`arenas-lista`](2026-11-12/arenas-lista.png), [`home-inicio`](2026-11-12/home-inicio.png)
+- **Telas:** [`arenas-lista`](2026-11-13/arenas-lista.png), [`home-inicio`](2026-11-13/home-inicio.png)
 
 ### Perfil da arena e favoritar
 - **Onde fica:** cartão da arena no diretório.
@@ -543,7 +543,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar. Arena favorita aparece primeiro no diretório, e o dono vê quantas pessoas favoritaram. O seguidor **não recebe aviso** quando a arena cria Day Use ou turma.
-- **Telas:** [`arenas-perfil`](2026-11-12/arenas-perfil.png)
+- **Telas:** [`arenas-perfil`](2026-11-13/arenas-perfil.png)
 
 ### Day Use
 - **Onde fica:** Arenas › **Day use**, ou a aba **Day use** no perfil da arena.
@@ -556,7 +556,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis no app. O valor do Day Use é **cobrado na arena**.
 - **Status:** no ar.
-- **Telas:** [`arenas-day-use`](2026-11-12/arenas-day-use.png), [`arenas-perfil`](2026-11-12/arenas-perfil.png)
+- **Telas:** [`arenas-day-use`](2026-11-13/arenas-day-use.png), [`arenas-perfil`](2026-11-13/arenas-perfil.png)
 
 ### Aulas
 - **Onde fica:** perfil da arena › **Aulas**; Arenas › **Buscar vaga**; depois, menu do avatar › **Minhas aulas**.
@@ -570,7 +570,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador (aluno).
 - **Grátis ou pago:** grátis no app. Mensalidade e aula avulsa são combinadas e pagas direto à arena.
 - **Status:** no ar (a arena precisa ter o Plano Arena Gestão).
-- **Telas:** [`arenas-aulas`](2026-11-12/arenas-aulas.png)
+- **Telas:** [`arenas-aulas`](2026-11-13/arenas-aulas.png)
 
 ### Aluguel de quadra
 - **Onde fica:** perfil da arena › **Aluguel** › **Reservar quadra**.
@@ -584,7 +584,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis no app. O Pix vai direto para a arena; o Smatch não recebe esse dinheiro.
 - **Status:** no ar (a arena precisa ter o Plano Arena Gestão). Uma reserva em aberto por vez. Depois de **Já paguei**, só a arena cancela; devolução é tratada fora do app.
-- **Telas:** [`arenas-aluguel`](2026-11-12/arenas-aluguel.png)
+- **Telas:** [`arenas-aluguel`](2026-11-13/arenas-aluguel.png)
 
 ### Buscar professor
 - **Onde fica:** Arenas › **Professores**.
@@ -593,7 +593,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
 - **Status:** no ar.
-- **Telas:** [`arenas-lista`](2026-11-12/arenas-lista.png), [`arenas-aulas`](2026-11-12/arenas-aulas.png)
+- **Telas:** [`arenas-lista`](2026-11-13/arenas-lista.png), [`arenas-aulas`](2026-11-13/arenas-aulas.png)
 
 ---
 
@@ -618,7 +618,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena.
 - **Grátis ou pago:** **R$ 99,90 por mês** desde 12/11/2026 (antes, R$ 49,90). Na web, só cartão de crédito, cobrança mensal. No app de iPhone e Android, compra pela loja: no Android já está em R$ 99,90; no iPhone o preço novo entra em 14/11/2026.
 - **Status:** no ar. Não há período de teste. Ao cancelar, o acesso vale até o fim do período pago; depois o perfil e os Day Use somem do app.
-- **Telas:** [`arenas-plano-arena`](2026-11-12/arenas-plano-arena.png), [`arenas-perfil`](2026-11-12/arenas-perfil.png)
+- **Telas:** [`arenas-plano-arena`](2026-11-13/arenas-plano-arena.png), [`arenas-perfil`](2026-11-13/arenas-perfil.png)
 
 ### Plano Arena Gestão
 - **Onde fica:** menu do avatar › carteira (`/carteira`).
@@ -627,7 +627,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena.
 - **Grátis ou pago:** **R$ 300,00 por mês**. Na web, só cartão de crédito, cobrança mensal. Subir do Plano Arena para o Gestão cobra na hora, sem abater os dias já pagos.
 - **Status:** no ar desde 08/11/2026 (venda ligada na configuração de produção). Também é vendido pelas lojas, a R$ 300,00: a compra foi testada no Android em 09/11/2026 e a assinatura foi aprovada pela Apple no mesmo dia. Falta só um teste de compra feito num iPhone.
-- **Telas:** [`arenas-plano-arena`](2026-11-12/arenas-plano-arena.png), [`arenas-painel`](2026-11-12/arenas-painel.png)
+- **Telas:** [`arenas-plano-arena`](2026-11-13/arenas-plano-arena.png), [`arenas-painel`](2026-11-13/arenas-painel.png)
 
 ### Painel da arena
 - **Onde fica:** menu do avatar › **Minha Arena** (`/arena/painel`).
@@ -641,7 +641,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena.
 - **Grátis ou pago:** incluído nos planos de arena. Sem o Gestão, o painel avisa **Plano Gestão libera quadras, turmas e números**.
 - **Status:** no ar.
-- **Telas:** [`arenas-painel`](2026-11-12/arenas-painel.png)
+- **Telas:** [`arenas-painel`](2026-11-13/arenas-painel.png)
 
 ### Turmas, alunos e chamada
 - **Onde fica:** painel › **Turmas e alunos** (`/arena/turmas`).
@@ -655,7 +655,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena e professor. Só o dono cria turma, aceita pedido de vaga e remove aluno. O professor vinculado faz a chamada, vê os alunos e responde aula experimental e avulsa (menu **Minhas turmas (professor)**).
 - **Grátis ou pago:** Plano Arena Gestão (R$ 300,00 por mês). A mensalidade aparece só como informação; o app não cobra aula.
 - **Status:** no ar.
-- **Telas:** [`arenas-turma`](2026-11-12/arenas-turma.png), [`arenas-aulas`](2026-11-12/arenas-aulas.png), [`arenas-painel`](2026-11-12/arenas-painel.png)
+- **Telas:** [`arenas-turma`](2026-11-13/arenas-turma.png), [`arenas-aulas`](2026-11-13/arenas-aulas.png), [`arenas-painel`](2026-11-13/arenas-painel.png)
 
 ### Quadras e reservas
 - **Onde fica:** painel › `/arena/quadras`, com **Quadras** / **Agenda**.
@@ -667,7 +667,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena.
 - **Grátis ou pago:** Plano Arena Gestão (R$ 300,00 por mês). O Smatch não fica com nada do aluguel.
 - **Status:** no ar. Sem chave Pix cadastrada, a arena não recebe reservas. O jogador não envia comprovante: a arena confere o Pix na própria conta.
-- **Telas:** [`arenas-aluguel`](2026-11-12/arenas-aluguel.png), [`arenas-painel`](2026-11-12/arenas-painel.png)
+- **Telas:** [`arenas-aluguel`](2026-11-13/arenas-aluguel.png), [`arenas-painel`](2026-11-13/arenas-painel.png)
 
 ### Day Use (criar)
 - **Onde fica:** painel › **Day use**, ou Arenas › **Day use** › **Novo Day Use**.
@@ -679,7 +679,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena.
 - **Grátis ou pago:** incluído no Plano Arena (R$ 99,90 por mês) e no Gestão.
 - **Status:** no ar. O Day Use criado já sai publicado; não há rascunho.
-- **Telas:** [`arenas-day-use`](2026-11-12/arenas-day-use.png)
+- **Telas:** [`arenas-day-use`](2026-11-13/arenas-day-use.png)
 
 ### Fechar a arena numa data
 - **Onde fica:** painel › **Fechar** ("Fechamentos e torneios").
@@ -691,7 +691,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena.
 - **Grátis ou pago:** Plano Arena Gestão.
 - **Status:** no ar. As reservas e as aulas do período são canceladas e os alunos e jogadores são avisados no sino. Torneio marcado como **Na minha arena** fecha a agenda nos dias do torneio automaticamente.
-- **Telas:** [`arenas-avisos`](2026-11-12/arenas-avisos.png)
+- **Telas:** [`arenas-avisos`](2026-11-13/arenas-avisos.png)
 
 ### Números da arena
 - **Onde fica:** painel › **Números** (`/arena/numeros`).
@@ -700,7 +700,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena.
 - **Grátis ou pago:** **Alcance da arena** em qualquer plano; os demais blocos, só no Gestão.
 - **Status:** no ar.
-- **Telas:** [`arenas-seguidores`](2026-11-12/arenas-seguidores.png)
+- **Telas:** [`arenas-seguidores`](2026-11-13/arenas-seguidores.png)
 
 ### Professores da arena
 - **Onde fica:** perfil da arena › editar › **Professores vinculados**; o professor responde em menu do avatar › **Convites de arena**.
@@ -712,7 +712,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** arena e professor.
 - **Grátis ou pago:** grátis para o professor; a arena precisa de plano (o Plano Arena basta).
 - **Status:** no ar.
-- **Telas:** [`arenas-aulas`](2026-11-12/arenas-aulas.png), [`arenas-painel`](2026-11-12/arenas-painel.png)
+- **Telas:** [`arenas-aulas`](2026-11-13/arenas-aulas.png), [`arenas-painel`](2026-11-13/arenas-painel.png)
 
 ### Avisos da arena
 - **Onde fica:** sino de quem é aluno ou tem reserva.
@@ -721,7 +721,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador (recebe) e arena (gera ao fechar).
 - **Grátis ou pago:** incluído no Gestão.
 - **Status:** no ar, **só para esses avisos automáticos**. A arena **não consegue escrever um comunicado** para alunos ou seguidores; isso não existe no app.
-- **Telas:** [`arenas-avisos`](2026-11-12/arenas-avisos.png)
+- **Telas:** [`arenas-avisos`](2026-11-13/arenas-avisos.png)
 
 ---
 
@@ -739,7 +739,7 @@ Store Connect e no Google Play Console antes de ser divulgado.
 - **Para quem:** jogador.
 - **Grátis ou pago:** **R$ 9,90 por mês**. Na web, só cartão de crédito (pede CPF ou CNPJ e CEP); não há Pix. No app de iPhone e Android, compra pela loja. O teste de 7 dias existe só na web, sem cartão, uma vez por CPF.
 - **Status:** no ar. Cancelando, o acesso vale até o fim do período pago.
-- **Telas:** [`arenas-plano-arena`](2026-11-12/arenas-plano-arena.png) (a carteira mostra os três planos)
+- **Telas:** [`arenas-plano-arena`](2026-11-13/arenas-plano-arena.png) (a carteira mostra os três planos)
 
 ---
 
@@ -811,6 +811,7 @@ O que parece pronto e não está, ou funciona de um jeito diferente do que o nom
 14. **Vínculo com o perfil ITF** é só para a categoria PRO e para professores, com aprovação manual.
 15. **A chave do mata-mata não tem disputa de terceiro lugar, cabeças de chave nem quadra por jogo.** Super 8 e Copa têm quadra e terceiro lugar.
 16. **Copa por Equipes e Rei da Praia** ainda não foram usados em evento real; trate como novidade em validação, não como produto consolidado.
+17. **Pessoas reais nas telas.** Desde 13/11/2026 as telas mostram dois perfis reais, com autorização: o **Leandro Silva** é a conta que tira as fotos (canto de todas as telas e "Meu cartão") e o **Vicente Brusadelli** é o cartão do Match, o card de perfil e o primeiro coringa. A ficha de jogador dos dois (foto, categoria, lado, dias) é a real; os torneios, pontos, ranking e a chamada de coringa em que aparecem são de demonstração. Não use as telas para afirmar resultados deles. No Match, o Vicente (PRO) aparece para a conta C só na captura: no app o baralho mostra apenas a mesma categoria.
 
 ## Como este mapa foi feito
 
