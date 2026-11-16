@@ -277,17 +277,18 @@ Store Connect e no Google Play Console antes de ser divulgado.
 ## 6. Coringa
 
 ### Coringa
-- **Onde fica:** aba **Coringa**, com **Disponíveis** / **Chamadas** / **Árbitros** / **Minha disp.**
-- **Para que serve:** completar o jogo quando falta alguém, ou se oferecer para completar o jogo dos outros.
+- **Onde fica:** aba **Coringa**, com três visões: **Jogos abertos** / **Jogadores** / **Árbitros**.
+- **Para que serve:** montar um jogo numa arena e achar quem complete, ou se oferecer para completar o jogo dos outros.
 - **Como usar:**
-  1. **Para chamar:** **Chamadas** › **Publicar chamada** › preencha data, horário de início, período, categoria, arena, cidade e mensagem › **Publicar**.
-  2. **Para se candidatar:** numa chamada aberta, toque em **Candidatar-me**.
-  3. **Para convidar alguém:** **Disponíveis** › **Convidar** › **Enviar convite**. Também há **Desafiar** e **WhatsApp**.
-  4. **Para se oferecer:** **Minha disp.** › ligue **Habilitar como coringa**, marque dias, períodos, categorias e arenas › **Salvar disponibilidade**.
-- **Para quem:** jogador.
-- **Grátis ou pago:** grátis.
-- **Status:** no ar.
-- **Telas:** [`coringa-disponiveis`](2026-11-13/coringa-disponiveis.png), [`coringa-chamadas`](2026-11-13/coringa-chamadas.png)
+  1. **Para abrir um jogo:** **Jogos abertos** › **Abrir um jogo** › escolha a arena, dia, hora de início, duração, simples ou duplas, quem pode jogar, categorias aceitas e vagas abertas › **Enviar para a arena confirmar**.
+  2. **A arena confirma a quadra** em **Jogos na minha arena**. Só jogo confirmado aparece para os outros jogadores.
+  3. **Para entrar num jogo:** em **Jogos abertos**, filtre por categoria, arena, cidade e dia e toque em **Entrar na vaga**.
+  4. **Para convidar alguém:** **Jogadores** › **Disponíveis** › **Convidar**. Também há **Desafiar** e **WhatsApp**.
+  5. **Para se oferecer:** **Jogadores** › **Minha disponibilidade** › ligue **Habilitar como coringa**, marque dias, períodos, categorias e arenas › **Salvar disponibilidade**.
+- **Para quem:** jogador; a arena confirma os jogos.
+- **Grátis ou pago:** grátis. O **valor por pessoa** do jogo é só informativo: o pagamento é direto com a arena.
+- **Status:** no ar desde 15/11/2026, no lugar da antiga "chamada de coringa". O jogo começa entre 3 horas e 14 dias à frente; cabe mais gente que a quadra (até 8, revezando); cada pessoa mantém até 3 jogos abertos. Só arena com cadastro aprovado recebe jogos. Sair ou cancelar a menos de 3 horas do jogo tira pontos da **confiabilidade** do jogador.
+- **Telas:** [`coringa-disponiveis`](2026-11-13/coringa-disponiveis.png) (lista de jogadores; o topo da tela mudou). [`coringa-chamadas`](2026-11-13/coringa-chamadas.png) mostra a versão antiga: **não usar**. Faltam as telas de Jogos abertos.
 
 ### Árbitros
 - **Onde fica:** para se cadastrar, primeiro acesso (papel **Árbitro**) ou Perfil › **Sou árbitro**. Para achar um, Coringa › **Árbitros**.
@@ -529,8 +530,8 @@ Store Connect e no Google Play Console antes de ser divulgado.
   5. Use os atalhos **Professores** e **Buscar vaga**, ou toque no cartão da arena.
 - **Para quem:** jogador.
 - **Grátis ou pago:** grátis.
-- **Status:** no ar. Só aparecem no diretório as arenas aprovadas e com plano ativo. No mapa aparecem também lugares cadastrados por jogadores ou achados no Google, sem perfil.
-- **Telas:** [`arenas-lista`](2026-11-13/arenas-lista.png), [`home-inicio`](2026-11-13/home-inicio.png)
+- **Status:** no ar. Só aparecem no diretório as arenas aprovadas e com plano ativo; em **Tudo**, a arena aparece mesmo sem Day Use, turma ou quadra publicados. A aba **Day use** também filtra pela cidade (desde 15/11/2026). No mapa aparecem também lugares cadastrados por jogadores ou achados no Google, sem perfil.
+- **Telas:** [`arenas-lista`](2026-11-13/arenas-lista.png), [`home-inicio`](2026-11-13/home-inicio.png); arena real: [`primeira-arena-busca-santos`](2026-11-16/primeira-arena-busca-santos.png), [`primeira-arena-day-use-santos`](2026-11-16/primeira-arena-day-use-santos.png)
 
 ### Perfil da arena e favoritar
 - **Onde fica:** cartão da arena no diretório.

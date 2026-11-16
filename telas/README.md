@@ -46,3 +46,17 @@ de coringa em que aparecem são encenados. As telas de ITF mostram dados públic
 | Perfil | Perfil do jogador | [`perfil-jogador.png`](2026-11-13/perfil-jogador.png) | Perfil do jogador com estatísticas de desempenho. |
 | Coringa | Coringas disponíveis | [`coringa-disponiveis.png`](2026-11-13/coringa-disponiveis.png) | Jogadores disponíveis para completar um jogo, por dia, período e categoria. |
 | Coringa | Chamadas abertas | [`coringa-chamadas.png`](2026-11-13/coringa-chamadas.png) | Chamadas de quem precisa de um coringa: data, horário, arena e nível. |
+
+## Telas reais: primeira arena (2026-11-16)
+
+Fotografadas do app público em produção, como visitante, em 16/11/2026. Arena real: **Praiamar Shopping** (Santos/SP).
+Nenhuma pessoa aparece. Roteiro do post, vantagens e cuidados: [POST-PRIMEIRA-ARENA.md](POST-PRIMEIRA-ARENA.md).
+
+| Arquivo | O que mostra |
+|---|---|
+| [`primeira-arena-busca-santos.png`](2026-11-16/primeira-arena-busca-santos.png) | Aba Arenas com a cidade Santos: uma arena, a Praiamar, com o selo Day use. |
+| [`primeira-arena-perfil.png`](2026-11-16/primeira-arena-perfil.png) | Perfil público da arena: logo, endereço, fotos, horário de Day Use e próximos Day Uses. |
+| [`primeira-arena-perfil-inteira.png`](2026-11-16/primeira-arena-perfil-inteira.png) | O mesmo perfil em página inteira, para recortar. |
+| [`primeira-arena-day-use-santos.png`](2026-11-16/primeira-arena-day-use-santos.png) | Aba Day use filtrada por Santos, com o Day Use de sábado a R$ 30,00 e os períodos para confirmar presença. |
+
+Telas desatualizadas da pasta `2026-11-13/`: `coringa-chamadas` (a chamada de coringa virou **Jogos abertos** em 15/11/2026) e o topo de `coringa-disponiveis`.
