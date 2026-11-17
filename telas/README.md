@@ -58,5 +58,7 @@ Nenhuma pessoa aparece. Roteiro do post, vantagens e cuidados: [POST-PRIMEIRA-AR
 | [`primeira-arena-perfil.png`](2026-11-16/primeira-arena-perfil.png) | Perfil público da arena: logo, endereço, fotos, horário de Day Use e próximos Day Uses. |
 | [`primeira-arena-perfil-inteira.png`](2026-11-16/primeira-arena-perfil-inteira.png) | O mesmo perfil em página inteira, para recortar. |
 | [`primeira-arena-day-use-santos.png`](2026-11-16/primeira-arena-day-use-santos.png) | Aba Day use filtrada por Santos, com o Day Use de sábado a R$ 30,00 e os períodos para confirmar presença. |
+| [`primeira-arena-day-use-santos-v2.png`](2026-11-16/primeira-arena-day-use-santos-v2.png) | Aba Day use em Santos, logado como Leandro: card de sábado 21/11 da Praiamar com 2 confirmados, "1 amigo" e Manhã marcada. |
+| [`primeira-arena-day-use-confirmados.png`](2026-11-16/primeira-arena-day-use-confirmados.png) | Day Use de 21/11 aberto: "Você vai" na Manhã, 2 confirmados por categoria, gênero e período, e a lista com Vicente e Leandro. |
 
 Telas desatualizadas da pasta `2026-11-13/`: `coringa-chamadas` (a chamada de coringa virou **Jogos abertos** em 15/11/2026) e o topo de `coringa-disponiveis`.
