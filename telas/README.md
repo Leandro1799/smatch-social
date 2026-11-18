@@ -63,3 +63,15 @@ Nenhuma pessoa aparece. Roteiro do post, vantagens e cuidados: [POST-PRIMEIRA-AR
 | [`primeira-arena-day-use-confirmados-v2.png`](2026-11-16/primeira-arena-day-use-confirmados-v2.png) | Mesma tela depois da rodada #100: a categoria aparece ao lado de cada nome (Vicente PRO, Leandro C). **Usar esta.** |
 
 Telas desatualizadas da pasta `2026-11-13/`: `coringa-chamadas` (a chamada de coringa virou **Jogos abertos** em 15/11/2026) e o topo de `coringa-disponiveis`.
+
+## Telas avulsas de 2026-11-18 (pasta `2026-11-18/`)
+
+Capturas da homologação com os mesmos dados de demonstração, para a apresentação comercial.
+
+| Área | Tela | Arquivo | O que mostra |
+|---|---|---|---|
+| Coringa | Jogo aberto (3 de 4) | [`coringa-jogo-aberto-3-de-4.png`](2026-11-18/coringa-jogo-aberto-3-de-4.png) | Aba Coringa › Jogos abertos: quadra na Arena Demo, qui 19/11 19:00, duplas mistas C, R$ 40 por pessoa, 3 jogadores + 1 vaga livre, selo "Falta 1" e botão "Entrar na vaga". |
+| Coringa | Detalhe do jogo aberto | [`coringa-jogo-aberto-detalhe.png`](2026-11-18/coringa-jogo-aberto-detalhe.png) | O mesmo jogo com o selo "Confirmado" (a arena confirmou a quadra), observação e quem está no jogo. |
+| Arenas | Painel de gestão | [`arenas-painel-de-gestao.png`](2026-11-18/arenas-painel-de-gestao.png) | Painel da arena no Plano Gestão: números do dia/mês e "Precisa de você" (pedido de vaga em turma, pagamento de quadra, chamada pendente). |
+| Aulas | Chamada do professor | [`aulas-chamada-do-professor.png`](2026-11-18/aulas-chamada-do-professor.png) | Chamada da turma "Intermediário noite": cada aluno com Presente, Falta e Avisou. |
+| Aulas | Buscar vaga | [`aulas-buscar-vaga.png`](2026-11-18/aulas-buscar-vaga.png) | Busca de turma do jogador: filtros de nível, dia, período, preço e convênios (Wellhub/TotalPass) e uma turma com vagas livres. |
